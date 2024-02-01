@@ -1,6 +1,5 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Michael Osei Frimpong",
 	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
@@ -12,5 +11,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://incandescent-syrniki-0bbbe2.netlify.app/"
-	}
+	},
+	"author": "Michael Osei Frimpong"
 }
