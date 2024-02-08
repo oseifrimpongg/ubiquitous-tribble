@@ -1,7 +1,7 @@
 {
+	"author": "Michael",
 	"name": "fcc-learn-npm-package-json",
 	"version": "1.0.0",
-	"author": "Michael Osei Frimpong",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
